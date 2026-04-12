@@ -6,12 +6,13 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
+turibius:
+  name: Turibius Rozario
+  url: https://turibiusrozario.com/
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+mireille:
+  name: Mireille Bejjani
+  url: https://www.slingshot.org/team/mireille-bejjani
+
+ron:
+  name: Ron Smoller
