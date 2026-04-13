@@ -49,7 +49,7 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
   - Activates the Fix the Grid base when action is required.
 - When: Mondays at 3pm (first Monday)
 - Who: Marya Axner, David Heimann, Monte Pearson, Eve Lukens-Day, Regine Spector, Mireille Bejjani, Halsey Snow, Sue Donaldson
-- Email: [ftg-education@googlegroups.com](ftg-education@googlegroups.com)
+- Email: [ftg-education@googlegroups.com](mailto:ftg-education@googlegroups.com)
 
 ### Movement Building Committee
 
