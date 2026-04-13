@@ -38,7 +38,7 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
 - Who: everyone who is part of the Fix the Grid campaign (including any of the subcommittees)
 - Email:
   - [fix-the-grid@googlegroups.com](mailto:fix-the-grid@googlegroups.com) (content moderated by Mireille to avoid high traffic; for announcements)
-  - Core list: [ftg-core@googlegroups.com](ftg-core@googlegroups.com) (no moderation; for more discussion)
+  - Core list: [ftg-core@googlegroups.com](mailto:ftg-core@googlegroups.com) (no moderation; for more discussion)
 
 ### Education and Action Committee 
 
