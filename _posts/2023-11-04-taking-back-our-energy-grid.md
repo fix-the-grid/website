@@ -22,7 +22,7 @@ to be administered by and for the people of New England.
 The rally brought together the forces of a green future represented by humans with  
 (human sized) wind turbines and suns, ready to do battle with skeletons, grim  
 reapers, and men in suits (representing the ISO board and local utilities). We heard  
-a supportive [statement from a representative of Senator Ed Markey](/assets/files/2023/11/Senator-Markey-Statement-on-ISO-and-the-Grid-2023.11.01.pdf) and sang with  
+a supportive [statement from a representative of Senator Ed Markey]({{ '/assets/files/2023/11/Senator-Markey-Statement-on-ISO-and-the-Grid-2023.11.01.pdf' | relative_url }}) and sang with  
 our own 350 Mass folk band.  
 The rival teams then marched down Congress Street and battled in the crosswalk  
 next to the Seaport Hotel. As they wrestled for the future of the earth, there were  

@@ -7,7 +7,7 @@ image:
   path: "/assets/img/2024/03/ftg324-1024x437.png"
 ---
 
-![](/assets/img/2024/03/ftg324-1024x437.png)
+![]({{ '/assets/img/2024/03/ftg324-1024x437.png' | relative_url }})
 
 It was an awakening to attend the FTG Summit in Danbury, NH last week.  For me, and many others attending from around New England, it was a first time, face-to-face meeting.   No hybrid; solely live.  A community center where a day’s long summit for climate and energy democracy activists was supremely hosted by [Fix The Grid](https://fix-the-grid.org/).
 

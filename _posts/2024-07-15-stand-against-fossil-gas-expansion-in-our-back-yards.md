@@ -19,6 +19,6 @@ Enbridge first announced this capacity expansion in late 2023, seeking customers
 
 What can you do?
 
-1. Educate yourself and others about this problem.  See <http://stopprojectmaple.org> for more background and upcoming actions. Join activists in the Stop Project Maple coalition by contacting Martha Klein (puckyshouse@gmail.com).
+1. Educate yourself and others about this problem.  See <https://stopprojectmaple.org> for more background and upcoming actions. Join activists in the Stop Project Maple coalition by contacting Martha Klein (puckyshouse@gmail.com).
 2. Write Letters to the Editor of your local papers expressing your opposition.
 3. Contact your local officials in Massachusetts, Rhode Island, and Connecticut to sign an opposition letter for your state. See <https://stopprojectmaple.org/take-action/> for instructions.

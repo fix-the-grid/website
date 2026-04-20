@@ -20,4 +20,4 @@ In a January 3 editorial essay in the *Boston Globe*, van Welie indicated he was
 
 When a major institution – private, government, or non-profit – proves itself to be trapped in an old or obsolete organizational strategy, the sensible response is to bring in new management, people with new ideas and a new way of approaching organizational challenges. ISO-NE has failed. It is time for new, more climate-friendly leadership at ISO-NE. It is time for Gordon van Welie to leave the historical stage.
 
-![Gordon van Welie](/assets/img/2023/05/gordon-150x150.jpg)
+![Gordon van Welie]({{ '/assets/img/2023/05/gordon-150x150.jpg' | relative_url }})

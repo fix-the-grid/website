@@ -7,7 +7,7 @@ image:
   path: "/assets/img/2023/05/offshore.png"
 ---
 
-![](/assets/img/2023/05/offshore.png)
+![]({{ '/assets/img/2023/05/offshore.png' | relative_url }})
 
 The last two weeks of highlights for grid technical news include an article favorably comparing battery storage technology to fossil-fuel-based peakers, a proposal for EV charging on highways, a large new RFP for offshore wind energy in MA, challenges to ISO-NE proposed plan for winter fuel storage, a startup’s smart electrical plane, a call for more competition in the power sector, an auction for energy storage in areas other than NE, performance-based regulation in CT, and an argument for how to streamline transmission permitting.
 
