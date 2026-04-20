@@ -81,6 +81,6 @@ Limitations of this study acknowledged by the authors include an assumption of a
 
 References
 
-Mark Z. Jacobson, Anna-Katharina von Krauland, Stephen J. Coughlin, Frances C. Palmer, Miles M. Smith (2022) “Zero air pollution and zero carbon from all energy at low cost and without blackouts in variable weather throughout the U.S. with 100% wind-water-solar and storage,” *Renewable Energy* 184:430-442. [Download](https://web.stanford.edu/group/efmh/jacobson/Articles/I/21-USStates-PDFs/21-USStatesPaper.pdf).
+Mark Z. Jacobson, Anna-Katharina von Krauland, Stephen J. Coughlin, Frances C. Palmer, Miles M. Smith (2022) “Zero air pollution and zero carbon from all energy at low cost and without blackouts in variable weather throughout the U.S. with 100% wind-water-solar and storage,” _Renewable Energy_ 184:430-442. [Download](https://web.stanford.edu/group/efmh/jacobson/Articles/I/21-USStates-PDFs/21-USStatesPaper.pdf).
 
 I[mage by tawatchai07](https://www.freepik.com/free-photo/solar-panels-roof-solar-cell_21520477.htm#query=solar%20farm&position=1&from_view=keyword&track=ais) on Freepik

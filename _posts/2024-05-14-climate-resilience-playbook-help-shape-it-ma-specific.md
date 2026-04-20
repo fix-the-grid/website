@@ -1,5 +1,5 @@
 ---
-title: "\"Climate Resilience Playbook” - Help Shape It! (MA-specific)"
+title: '"Climate Resilience Playbook” - Help Shape It! (MA-specific)'
 date: 2024-05-14 15:34:42 +0000
 author: ron
 categories: ["News"]

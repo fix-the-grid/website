@@ -26,11 +26,11 @@ We need a grid operator that is as visionary, and hungry for change, as the comm
 
 We deserve an energy grid that is responsive to the needs of ratepayers and the people living with climate catastrophe and pollution, not fossil fuel executives and utilities.
 
-## Our subcommittees 
+## Our subcommittees
 
 ### Full Fix the Grid group
 
-- What: 
+- What:
   - Shares updates on progress
   - Identifies opportunities for action
   - Increases regional collaboration
@@ -41,11 +41,11 @@ We deserve an energy grid that is responsive to the needs of ratepayers and the 
   - [fix-the-grid@googlegroups.com](mailto:fix-the-grid@googlegroups.com) (content moderated by Mireille to avoid high traffic; for announcements)
   - Core list: [ftg-core@googlegroups.com](mailto:ftg-core@googlegroups.com) (no moderation; for more discussion)
 
-### Education and Action Committee 
+### Education and Action Committee
 
 - What:
-  - Plans informational events such as webinars to educate the public on the grid; 
-  - Turns distilled technical information into accessible materials such as infographics, videos, action toolkits, and social media content; 
+  - Plans informational events such as webinars to educate the public on the grid;
+  - Turns distilled technical information into accessible materials such as infographics, videos, action toolkits, and social media content;
   - Gives presentations about the grid to other groups;
   - Activates the Fix the Grid base when action is required.
 - When: Mondays at 3pm (first Monday)

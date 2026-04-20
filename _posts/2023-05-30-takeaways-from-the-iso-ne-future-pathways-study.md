@@ -16,22 +16,22 @@ Advocacy groups should understand this study since it is likely to be used as a 
 The study examined four pathways and came to the following conclusions about each. Comments from other organizations are summarized in italics.
 
 1. 1. Status Quo: The NE states continue independently to fund renewable energy development by funding power purchase agreements with clean energy developers. This was found to be the most expensive of the alternatives, largely because it is dependent upon uncoordinated administrative processes in each of the states and does not necessarily incentivize the least costly alternatives at the appropriate time.
-      - - *A comment by Advanced Energy Economy noted that the study makes the questionable assumption that the mix of purchasing agreements will not change going forward. Changes could easily affect the outcome.*
-      - - *Other clean energy advocates also question the conclusion that this pathway is necessarily the most expensive. Also, among the alternatives, it would require the fewest changes and negotiations among the states.*
+   - - _A comment by Advanced Energy Economy noted that the study makes the questionable assumption that the mix of purchasing agreements will not change going forward. Changes could easily affect the outcome._
+   - - _Other clean energy advocates also question the conclusion that this pathway is necessarily the most expensive. Also, among the alternatives, it would require the fewest changes and negotiations among the states._
 
 1. 1. Forward Clean Energy Market: A new centralized market is proposed for tradeable clean energy certificates for future energy. The conclusions were that this mechanism would be more efficient than the Status Quo but that it does not guarantee that new clean energy sources would displace fossil fuels.  It also would require a lot of work to set up. Lastly, it might result in negative energy prices, an inefficient market distortion, since some companies might make money by paying others to accept energy that the companies have already been paid to produce through energy certificates in advance.
-      - - *Many clean energy companies and environmental advocacy organizations did not find the warnings about negative prices convincing.*
-      - - *The New England States Committee on Electricity (NESCOE) has signaled interest in this option.*
-      - - *There are many questions about how this new future energy market would relate to the existing capacity market.*
+   - - _Many clean energy companies and environmental advocacy organizations did not find the warnings about negative prices convincing._
+   - - _The New England States Committee on Electricity (NESCOE) has signaled interest in this option._
+   - - _There are many questions about how this new future energy market would relate to the existing capacity market._
 
 1. 1. Carbon Pricing: The study found that this would be the cheapest pathway and the simplest to implement.
-      - - *Virtually all the fossil-fuel power companies who commented are in favor of this in part because some generation sources such as combined cycle natural gas would be incentivized over more carbon-intensive generation.*
-      - - *Some clean energy companies and environmental advocacy organizations objected to any further incentives for fossil-fuel-based generation.*
-      - - *As noted below, carbon pricing has largely failed to date in the US because it is politically unpalatable.*
+   - - _Virtually all the fossil-fuel power companies who commented are in favor of this in part because some generation sources such as combined cycle natural gas would be incentivized over more carbon-intensive generation._
+   - - _Some clean energy companies and environmental advocacy organizations objected to any further incentives for fossil-fuel-based generation._
+   - - _As noted below, carbon pricing has largely failed to date in the US because it is politically unpalatable._
 
-1. 1. Hybrid: This pathway combines a version of the Forward Clean Energy Market (with the wrinkle that only *new* clean energy sources are eligible) with carbon pricing. The study concluded it would be less costly than all pathways except carbon pricing alone. This would likely be the most complex pathway to implement but combines the merits of carbon pricing (which increases market costs of electricity)  with a Forward Clean Energy Market (which decreases market costs).
-      - - *Some commented that excluding existing clean energy sources from the market would be inadvisable.*
-      - - *NRG Energy fleshed out more details of this proposal in  “*[*Straw Proposal for a Market-based Approach to New England’s Clean Energy Future*](https://drive.google.com/file/d/1WXZ23ZWtDbTxyj6Qpg6qKXR2G1yiZpDj/view?usp=sharing)*”*
+1. 1. Hybrid: This pathway combines a version of the Forward Clean Energy Market (with the wrinkle that only _new_ clean energy sources are eligible) with carbon pricing. The study concluded it would be less costly than all pathways except carbon pricing alone. This would likely be the most complex pathway to implement but combines the merits of carbon pricing (which increases market costs of electricity)  with a Forward Clean Energy Market (which decreases market costs).
+   - - _Some commented that excluding existing clean energy sources from the market would be inadvisable._
+   - - _NRG Energy fleshed out more details of this proposal in  “_[_Straw Proposal for a Market-based Approach to New England’s Clean Energy Future_](https://drive.google.com/file/d/1WXZ23ZWtDbTxyj6Qpg6qKXR2G1yiZpDj/view?usp=sharing)_”_
 
 ## Observations from the Fix-the-Grid Technical Group
 
