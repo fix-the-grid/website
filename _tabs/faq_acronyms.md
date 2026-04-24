@@ -12,7 +12,7 @@ order: 5
 ### What is the ISO-NE and what does it do?
 
 - An Independent System Operator (ISO) is a non-profit company authorized by the Federal Energy Regulatory Commission (FERC) to operate a regional electric grid, administer the wholesale electricity market, and plan the evolution of the grid. An ISO in North America is also a regional transmission organization (RTO) that manages the regional transmission grid (or what we often call, the grid).
-- ISO-NE is New England’s ISO, and covers most of Massachusetts, Connecticut, Rhode Island, Vermont, New Hampshire, and Maine. The ISO-NE [explainer](http://www.iso-ne.com/about/what-we-do/)summarizes these three key roles:
+- ISO-NE is New England’s ISO, and covers most of Massachusetts, Connecticut, Rhode Island, Vermont, New Hampshire, and Maine. The ISO-NE [explainer](https://www.iso-ne.com/about/what-we-do/)summarizes these three key roles:
   - Grid Operation: forecast, dispatch and direct the flow of electricity over the [region’s high-voltage transmission system.](https://www.iso-ne.com/about/key-stats/maps-and-diagrams/#transmission-system)
   - Market Administration: design, run, and oversee markets that attract a large and diverse mix of participants to buy and sell wholesale electricity at the most competitive prices.
   - Grid Planning: conduct the studies, analyses, and planning to make sure New England’s electricity needs will be met by considering the evolution of the grid over the next 10 years and beyond.
