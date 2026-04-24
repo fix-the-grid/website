@@ -3,7 +3,7 @@
 layout: post
 icon: fas fa-info-circle
 toc: true
-order: 4
+order: 6
 ---
 
 Fix the Grid is a coalition of New England residents striving to increase the
